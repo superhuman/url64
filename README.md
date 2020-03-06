@@ -4,7 +4,7 @@ URL-safe base64. (With - and _ in place of + and /, and with no padding).
 ### Installation
 
 ```
-go install github.com/superhuman/url64
+go get github.com/superhuman/url64
 ```
 
 ### Usage
